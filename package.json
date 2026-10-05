@@ -1,0 +1,20 @@
+{
+    "name": "com.skote.vfx-toolkit",
+    "version": "0.1.0",
+    "displayName": "Skote VFX Toolkit",
+    "description": "VFX Graph helpers: subgraphs (Vortex, SDF attractor, color comparison), VFX property managers, audio-reactive binders, camera frustum colliders and optional Mesh-to-SDF helpers.",
+    "unity": "6000.1",
+    "author": {
+        "name": "Jakob Skote",
+        "url": "https://github.com/skoteskote"
+    },
+    "keywords": [
+        "vfx",
+        "vfxgraph",
+        "audio",
+        "sdf"
+    ],
+    "dependencies": {
+        "com.unity.visualeffectgraph": "17.2.0"
+    }
+}

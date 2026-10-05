@@ -1,0 +1,14 @@
+{
+    "name": "Skote.Vfx.PitchDetection",
+    "rootNamespace": "Skote.Vfx.Audio.PitchDetection",
+    "references": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": true,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

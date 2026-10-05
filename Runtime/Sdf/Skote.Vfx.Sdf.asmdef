@@ -1,0 +1,32 @@
+{
+    "name": "Skote.Vfx.Sdf",
+    "rootNamespace": "Skote.Vfx.Sdf",
+    "references": [
+        "Skote.Vfx",
+        "Unity.VisualEffectGraph.Runtime",
+        "Unity.DemoTeam.MeshToSDF",
+        "Whinarn.UnityMeshSimplifier.Runtime"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [
+        "SKOTE_MESH_TO_SDF"
+    ],
+    "versionDefines": [
+        {
+            "name": "com.unity.demoteam.mesh-to-sdf",
+            "expression": "",
+            "define": "SKOTE_MESH_TO_SDF"
+        },
+        {
+            "name": "com.whinarn.unitymeshsimplifier",
+            "expression": "",
+            "define": "SKOTE_MESH_SIMPLIFIER"
+        }
+    ],
+    "noEngineReferences": false
+}

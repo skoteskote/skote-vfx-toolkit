@@ -1,0 +1,17 @@
+{
+    "name": "Skote.Vfx",
+    "rootNamespace": "Skote.Vfx",
+    "references": [
+        "Unity.VisualEffectGraph.Runtime",
+        "Skote.Vfx.PitchDetection"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
