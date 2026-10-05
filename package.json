@@ -1,6 +1,6 @@
 {
     "name": "com.skote.vfx-toolkit",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "displayName": "Skote VFX Toolkit",
     "description": "VFX Graph helpers: subgraphs (Vortex, SDF attractor, color comparison), VFX property managers, audio-reactive binders, camera frustum colliders and optional Mesh-to-SDF helpers.",
     "unity": "6000.1",

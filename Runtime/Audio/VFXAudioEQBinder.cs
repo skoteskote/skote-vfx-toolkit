@@ -48,8 +48,9 @@ namespace Skote.Vfx.Audio
             SyncExposedProperties();
         }
 
-        private void OnEnable()
+        protected override void OnEnable()
         {
+            base.OnEnable();
             SyncExposedProperties();
         }
 
